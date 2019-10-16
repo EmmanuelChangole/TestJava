@@ -1,2 +1,2 @@
-# TestJava
+# Binary Search
 Binary search implementation
